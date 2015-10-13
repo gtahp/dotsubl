@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AlignTab",
+		"All Autocomplete",
+		"AngularJS",
+		"Bootstrap 3 Snippets",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS3",
+		"Dependents",
+		"Emmet",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"Google Search",
+		"Google Spell Check",
+		"HTML Boilerplate",
+		"HTMLBeautify",
+		"JavaScript Completions",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"Package Control",
+		"Predawn",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"Theme - Centurion",
+		"Theme - Spacegray",
+		"Trimmer",
+		"VimL",
+		"Vintage Dev",
+		"Vintageous"
+	]
+}
